@@ -18,7 +18,6 @@ buttons.h/.c
 dac.h/.c
 enum_dac_volume.h
 enum_sd_file_list.h
-font.h/.c
 gui.h/.c
 gui_menu_templates.h/.c
 lcd.h/.c
